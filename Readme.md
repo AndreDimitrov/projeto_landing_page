@@ -1,1 +1,2 @@
-Esse projeto trat-se de um modelo básico para a iniciação dos estudos de criação de páginas.
+Esse projeto trata-se de um modelo básico para a iniciação dos estudos para programação.
+Isso é uma alteração.
